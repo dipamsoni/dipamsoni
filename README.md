@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/1e1cd2110453b4046d6e6969f6dbab28.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipamsoni" alt="dipamsoni" /></a> </p>
+
 ### About me
 
 - A **Data Scientist** from **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).**
