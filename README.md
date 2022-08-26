@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipam Soni</h1>
+<h1 align="center">Hi there 👋, I'm Dipam Soni</h1>
 <h3 align="center"> I’m NOT ASTROLOGY guy, I’m just DATA SCIENTIST which means to me is that solving business problems and create business intelligence.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/media/1e1cd2110453b4046d6e6969f6dbab28.gif">
