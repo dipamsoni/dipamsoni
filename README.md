@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [Dipam Soni](www.linkedin.com/in/dipam-soni-276aa8207)
 
-- ⚡ Fun fact **I can't be even serious at the serious matter.**
+- ⚡ Fun fact **☻**
 
 ### I like to discuss
 
