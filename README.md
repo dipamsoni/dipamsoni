@@ -23,7 +23,7 @@
 
 - 🔭 Focusing on **Computer Vision**, and **IoT integrations** professionally.
 
-- 📫 Reach me through **[E-Mail me!](sonidipam007@gmail.com)**
+- 📫 Reach me through **sonidipam007@gmail.com**
 
 - 📄 Know about my experiences [Dipam Soni](www.linkedin.com/in/dipam-soni-276aa8207)
 
