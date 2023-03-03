@@ -7,7 +7,7 @@
 
 - A **Data Scientist** from **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).**
 - Have 1.5 years of hands-on experience in **AI & ML Model development, Data Science consultancy,** and **team management.**
-- You can reach find more about me through my portfolio site [Click Me](https://flowcv.me/dipamsoni)
+- You can reach find more about me through my portfolio site **[CLICK ME](https://flowcv.me/dipamsoni)**
 - That’s not enough for me so working on Artificial intelligence & Machine Learning projects and also professional Data Scientist consultant
 - Also Have built **Webapp with Django & Flask** along with **Machine Learning Models** and **Predictions**.
 - Business Intelligence with **PowerBI** and **Tableau**.
