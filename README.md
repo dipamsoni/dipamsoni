@@ -61,13 +61,6 @@
     <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://scipy.org/images/logo.svg" alt="ScoPy" width="40" height="40"> </a>
     </p>
 
-- **Framework :**
-
-    <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    </p>
-
 - **Database :**
 
     <p align="left">
