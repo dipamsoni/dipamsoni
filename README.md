@@ -3,7 +3,7 @@
 ### About me
 
 - A **Data Scientist** from **[Ahmedabad](https://en.wikipedia.org/wiki/Ahmedabad), [India](https://en.wikipedia.org/wiki/India).**
-- Have 2+ years of hands-on experience in **AI & ML Model development, Data Science consultancy,** and **team management.**
+- Have 4+ years of hands-on experience in **AI & ML Model development, Data Science consultancy,** and **team management.**
 - You can reach find more about me through my portfolio site **[CLICK ME](https://digital-resume-kejp.onrender.com/)**
 - That’s not enough for me so working on Artificial intelligence & Machine Learning projects and also professional Data Scientist consultant
 - Working with LLMs to use in the real world applications like speech-to-text, text-to-speech, speech-recognization, summarization, chatbot, text generation, etc.
